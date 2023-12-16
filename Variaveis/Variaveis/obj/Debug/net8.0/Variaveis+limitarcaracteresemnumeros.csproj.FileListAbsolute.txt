@@ -1,0 +1,15 @@
+C:\Users\gmont\OneDrive\Desktop\C#\Variaveis\Variaveis\bin\Debug\net8.0\Variaveis+limitarcaracteresemnumeros.exe
+C:\Users\gmont\OneDrive\Desktop\C#\Variaveis\Variaveis\bin\Debug\net8.0\Variaveis+limitarcaracteresemnumeros.deps.json
+C:\Users\gmont\OneDrive\Desktop\C#\Variaveis\Variaveis\bin\Debug\net8.0\Variaveis+limitarcaracteresemnumeros.runtimeconfig.json
+C:\Users\gmont\OneDrive\Desktop\C#\Variaveis\Variaveis\bin\Debug\net8.0\Variaveis+limitarcaracteresemnumeros.dll
+C:\Users\gmont\OneDrive\Desktop\C#\Variaveis\Variaveis\bin\Debug\net8.0\Variaveis+limitarcaracteresemnumeros.pdb
+C:\Users\gmont\OneDrive\Desktop\C#\Variaveis\Variaveis\obj\Debug\net8.0\Variaveis+limitarcaracteresemnumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmont\OneDrive\Desktop\C#\Variaveis\Variaveis\obj\Debug\net8.0\Variaveis+limitarcaracteresemnumeros.AssemblyInfoInputs.cache
+C:\Users\gmont\OneDrive\Desktop\C#\Variaveis\Variaveis\obj\Debug\net8.0\Variaveis+limitarcaracteresemnumeros.AssemblyInfo.cs
+C:\Users\gmont\OneDrive\Desktop\C#\Variaveis\Variaveis\obj\Debug\net8.0\Variaveis+limitarcaracteresemnumeros.csproj.CoreCompileInputs.cache
+C:\Users\gmont\OneDrive\Desktop\C#\Variaveis\Variaveis\obj\Debug\net8.0\Variaveis+limitarcaracteresemnumeros.sourcelink.json
+C:\Users\gmont\OneDrive\Desktop\C#\Variaveis\Variaveis\obj\Debug\net8.0\Variaveis+limitarcaracteresemnumeros.dll
+C:\Users\gmont\OneDrive\Desktop\C#\Variaveis\Variaveis\obj\Debug\net8.0\refint\Variaveis+limitarcaracteresemnumeros.dll
+C:\Users\gmont\OneDrive\Desktop\C#\Variaveis\Variaveis\obj\Debug\net8.0\Variaveis+limitarcaracteresemnumeros.pdb
+C:\Users\gmont\OneDrive\Desktop\C#\Variaveis\Variaveis\obj\Debug\net8.0\Variaveis+limitarcaracteresemnumeros.genruntimeconfig.cache
+C:\Users\gmont\OneDrive\Desktop\C#\Variaveis\Variaveis\obj\Debug\net8.0\ref\Variaveis+limitarcaracteresemnumeros.dll

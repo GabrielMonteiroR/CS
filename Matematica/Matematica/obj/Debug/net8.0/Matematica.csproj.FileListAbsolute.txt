@@ -1,0 +1,15 @@
+C:\Users\gmont\OneDrive\Desktop\C#\Matematica\Matematica\bin\Debug\net8.0\Matematica.exe
+C:\Users\gmont\OneDrive\Desktop\C#\Matematica\Matematica\bin\Debug\net8.0\Matematica.deps.json
+C:\Users\gmont\OneDrive\Desktop\C#\Matematica\Matematica\bin\Debug\net8.0\Matematica.runtimeconfig.json
+C:\Users\gmont\OneDrive\Desktop\C#\Matematica\Matematica\bin\Debug\net8.0\Matematica.dll
+C:\Users\gmont\OneDrive\Desktop\C#\Matematica\Matematica\bin\Debug\net8.0\Matematica.pdb
+C:\Users\gmont\OneDrive\Desktop\C#\Matematica\Matematica\obj\Debug\net8.0\Matematica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmont\OneDrive\Desktop\C#\Matematica\Matematica\obj\Debug\net8.0\Matematica.AssemblyInfoInputs.cache
+C:\Users\gmont\OneDrive\Desktop\C#\Matematica\Matematica\obj\Debug\net8.0\Matematica.AssemblyInfo.cs
+C:\Users\gmont\OneDrive\Desktop\C#\Matematica\Matematica\obj\Debug\net8.0\Matematica.csproj.CoreCompileInputs.cache
+C:\Users\gmont\OneDrive\Desktop\C#\Matematica\Matematica\obj\Debug\net8.0\Matematica.sourcelink.json
+C:\Users\gmont\OneDrive\Desktop\C#\Matematica\Matematica\obj\Debug\net8.0\Matematica.dll
+C:\Users\gmont\OneDrive\Desktop\C#\Matematica\Matematica\obj\Debug\net8.0\refint\Matematica.dll
+C:\Users\gmont\OneDrive\Desktop\C#\Matematica\Matematica\obj\Debug\net8.0\Matematica.pdb
+C:\Users\gmont\OneDrive\Desktop\C#\Matematica\Matematica\obj\Debug\net8.0\Matematica.genruntimeconfig.cache
+C:\Users\gmont\OneDrive\Desktop\C#\Matematica\Matematica\obj\Debug\net8.0\ref\Matematica.dll

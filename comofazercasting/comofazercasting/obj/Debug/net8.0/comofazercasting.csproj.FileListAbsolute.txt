@@ -1,0 +1,15 @@
+C:\Users\gmont\OneDrive\Desktop\C#\comofazercasting\comofazercasting\obj\Debug\net8.0\comofazercasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmont\OneDrive\Desktop\C#\comofazercasting\comofazercasting\obj\Debug\net8.0\comofazercasting.AssemblyInfoInputs.cache
+C:\Users\gmont\OneDrive\Desktop\C#\comofazercasting\comofazercasting\obj\Debug\net8.0\comofazercasting.AssemblyInfo.cs
+C:\Users\gmont\OneDrive\Desktop\C#\comofazercasting\comofazercasting\obj\Debug\net8.0\comofazercasting.csproj.CoreCompileInputs.cache
+C:\Users\gmont\OneDrive\Desktop\C#\comofazercasting\comofazercasting\obj\Debug\net8.0\comofazercasting.sourcelink.json
+C:\Users\gmont\OneDrive\Desktop\C#\comofazercasting\comofazercasting\bin\Debug\net8.0\comofazercasting.exe
+C:\Users\gmont\OneDrive\Desktop\C#\comofazercasting\comofazercasting\bin\Debug\net8.0\comofazercasting.deps.json
+C:\Users\gmont\OneDrive\Desktop\C#\comofazercasting\comofazercasting\bin\Debug\net8.0\comofazercasting.runtimeconfig.json
+C:\Users\gmont\OneDrive\Desktop\C#\comofazercasting\comofazercasting\bin\Debug\net8.0\comofazercasting.dll
+C:\Users\gmont\OneDrive\Desktop\C#\comofazercasting\comofazercasting\bin\Debug\net8.0\comofazercasting.pdb
+C:\Users\gmont\OneDrive\Desktop\C#\comofazercasting\comofazercasting\obj\Debug\net8.0\comofazercasting.dll
+C:\Users\gmont\OneDrive\Desktop\C#\comofazercasting\comofazercasting\obj\Debug\net8.0\refint\comofazercasting.dll
+C:\Users\gmont\OneDrive\Desktop\C#\comofazercasting\comofazercasting\obj\Debug\net8.0\comofazercasting.pdb
+C:\Users\gmont\OneDrive\Desktop\C#\comofazercasting\comofazercasting\obj\Debug\net8.0\comofazercasting.genruntimeconfig.cache
+C:\Users\gmont\OneDrive\Desktop\C#\comofazercasting\comofazercasting\obj\Debug\net8.0\ref\comofazercasting.dll

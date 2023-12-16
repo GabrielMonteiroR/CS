@@ -1,0 +1,5 @@
+C:\Users\gmont\OneDrive\Desktop\C#\Variaveis\Variaveis\obj\Debug\net8.0\Variaveis+limitarcaracteres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmont\OneDrive\Desktop\C#\Variaveis\Variaveis\obj\Debug\net8.0\Variaveis+limitarcaracteres.AssemblyInfoInputs.cache
+C:\Users\gmont\OneDrive\Desktop\C#\Variaveis\Variaveis\obj\Debug\net8.0\Variaveis+limitarcaracteres.AssemblyInfo.cs
+C:\Users\gmont\OneDrive\Desktop\C#\Variaveis\Variaveis\obj\Debug\net8.0\Variaveis+limitarcaracteres.csproj.CoreCompileInputs.cache
+C:\Users\gmont\OneDrive\Desktop\C#\Variaveis\Variaveis\obj\Debug\net8.0\Variaveis+limitarcaracteres.sourcelink.json

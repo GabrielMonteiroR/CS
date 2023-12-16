@@ -1,0 +1,15 @@
+C:\Users\gmont\OneDrive\Desktop\C#\comofazercasting\comofazercasting\bin\Debug\net8.0\comofazercastingeusarfnofloateepontonodouble.exe
+C:\Users\gmont\OneDrive\Desktop\C#\comofazercasting\comofazercasting\bin\Debug\net8.0\comofazercastingeusarfnofloateepontonodouble.deps.json
+C:\Users\gmont\OneDrive\Desktop\C#\comofazercasting\comofazercasting\bin\Debug\net8.0\comofazercastingeusarfnofloateepontonodouble.runtimeconfig.json
+C:\Users\gmont\OneDrive\Desktop\C#\comofazercasting\comofazercasting\bin\Debug\net8.0\comofazercastingeusarfnofloateepontonodouble.dll
+C:\Users\gmont\OneDrive\Desktop\C#\comofazercasting\comofazercasting\bin\Debug\net8.0\comofazercastingeusarfnofloateepontonodouble.pdb
+C:\Users\gmont\OneDrive\Desktop\C#\comofazercasting\comofazercasting\obj\Debug\net8.0\comofazercastingeusarfnofloateepontonodouble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmont\OneDrive\Desktop\C#\comofazercasting\comofazercasting\obj\Debug\net8.0\comofazercastingeusarfnofloateepontonodouble.AssemblyInfoInputs.cache
+C:\Users\gmont\OneDrive\Desktop\C#\comofazercasting\comofazercasting\obj\Debug\net8.0\comofazercastingeusarfnofloateepontonodouble.AssemblyInfo.cs
+C:\Users\gmont\OneDrive\Desktop\C#\comofazercasting\comofazercasting\obj\Debug\net8.0\comofazercastingeusarfnofloateepontonodouble.csproj.CoreCompileInputs.cache
+C:\Users\gmont\OneDrive\Desktop\C#\comofazercasting\comofazercasting\obj\Debug\net8.0\comofazercastingeusarfnofloateepontonodouble.sourcelink.json
+C:\Users\gmont\OneDrive\Desktop\C#\comofazercasting\comofazercasting\obj\Debug\net8.0\comofazercastingeusarfnofloateepontonodouble.dll
+C:\Users\gmont\OneDrive\Desktop\C#\comofazercasting\comofazercasting\obj\Debug\net8.0\refint\comofazercastingeusarfnofloateepontonodouble.dll
+C:\Users\gmont\OneDrive\Desktop\C#\comofazercasting\comofazercasting\obj\Debug\net8.0\comofazercastingeusarfnofloateepontonodouble.pdb
+C:\Users\gmont\OneDrive\Desktop\C#\comofazercasting\comofazercasting\obj\Debug\net8.0\comofazercastingeusarfnofloateepontonodouble.genruntimeconfig.cache
+C:\Users\gmont\OneDrive\Desktop\C#\comofazercasting\comofazercasting\obj\Debug\net8.0\ref\comofazercastingeusarfnofloateepontonodouble.dll
