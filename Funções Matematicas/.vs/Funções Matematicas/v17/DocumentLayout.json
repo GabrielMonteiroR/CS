@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gmont\\OneDrive\\Desktop\\C#\\Fun\u00E7\u00F5es Matematicas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8EC175A-8E72-430E-9883-AE1D348B7A80}|Fun\u00E7\u00F5es Matematicas\\Fun\u00E7\u00F5es Matematicas.csproj|c:\\users\\gmont\\onedrive\\desktop\\c#\\fun\u00E7\u00F5es matematicas\\fun\u00E7\u00F5es matematicas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8EC175A-8E72-430E-9883-AE1D348B7A80}|Fun\u00E7\u00F5es Matematicas\\Fun\u00E7\u00F5es Matematicas.csproj|solutionrelative:fun\u00E7\u00F5es matematicas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gmont\\OneDrive\\Desktop\\C#\\Fun\u00E7\u00F5es Matematicas\\Fun\u00E7\u00F5es Matematicas\\Program.cs",
+              "RelativeDocumentMoniker": "Fun\u00E7\u00F5es Matematicas\\Program.cs",
+              "ToolTip": "C:\\Users\\gmont\\OneDrive\\Desktop\\C#\\Fun\u00E7\u00F5es Matematicas\\Fun\u00E7\u00F5es Matematicas\\Program.cs",
+              "RelativeToolTip": "Fun\u00E7\u00F5es Matematicas\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-18T13:47:49.484Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

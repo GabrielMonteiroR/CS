@@ -1,0 +1,15 @@
+C:\Users\gmont\OneDrive\Desktop\C#\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\net8.0\ExercicioDeFixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmont\OneDrive\Desktop\C#\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\net8.0\ExercicioDeFixacao.AssemblyInfoInputs.cache
+C:\Users\gmont\OneDrive\Desktop\C#\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\net8.0\ExercicioDeFixacao.AssemblyInfo.cs
+C:\Users\gmont\OneDrive\Desktop\C#\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\net8.0\ExercicioDeFixacao.csproj.CoreCompileInputs.cache
+C:\Users\gmont\OneDrive\Desktop\C#\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\net8.0\ExercicioDeFixacao.sourcelink.json
+C:\Users\gmont\OneDrive\Desktop\C#\ExercicioDeFixacao\ExercicioDeFixacao\bin\Debug\net8.0\ExercicioDeFixacao.exe
+C:\Users\gmont\OneDrive\Desktop\C#\ExercicioDeFixacao\ExercicioDeFixacao\bin\Debug\net8.0\ExercicioDeFixacao.deps.json
+C:\Users\gmont\OneDrive\Desktop\C#\ExercicioDeFixacao\ExercicioDeFixacao\bin\Debug\net8.0\ExercicioDeFixacao.runtimeconfig.json
+C:\Users\gmont\OneDrive\Desktop\C#\ExercicioDeFixacao\ExercicioDeFixacao\bin\Debug\net8.0\ExercicioDeFixacao.dll
+C:\Users\gmont\OneDrive\Desktop\C#\ExercicioDeFixacao\ExercicioDeFixacao\bin\Debug\net8.0\ExercicioDeFixacao.pdb
+C:\Users\gmont\OneDrive\Desktop\C#\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\net8.0\ExercicioDeFixacao.dll
+C:\Users\gmont\OneDrive\Desktop\C#\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\net8.0\refint\ExercicioDeFixacao.dll
+C:\Users\gmont\OneDrive\Desktop\C#\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\net8.0\ExercicioDeFixacao.pdb
+C:\Users\gmont\OneDrive\Desktop\C#\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\net8.0\ExercicioDeFixacao.genruntimeconfig.cache
+C:\Users\gmont\OneDrive\Desktop\C#\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\net8.0\ref\ExercicioDeFixacao.dll

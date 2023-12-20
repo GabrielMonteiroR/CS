@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Matematica")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f0912024b322e1d0449be972a8ea660814817f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Matematica")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Matematica")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

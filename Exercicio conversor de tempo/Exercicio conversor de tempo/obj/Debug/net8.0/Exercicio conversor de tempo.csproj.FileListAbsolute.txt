@@ -1,0 +1,15 @@
+C:\Users\gmont\OneDrive\Desktop\C#\Exercicio conversor de tempo\Exercicio conversor de tempo\obj\Debug\net8.0\Exercicio conversor de tempo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmont\OneDrive\Desktop\C#\Exercicio conversor de tempo\Exercicio conversor de tempo\obj\Debug\net8.0\Exercicio conversor de tempo.AssemblyInfoInputs.cache
+C:\Users\gmont\OneDrive\Desktop\C#\Exercicio conversor de tempo\Exercicio conversor de tempo\obj\Debug\net8.0\Exercicio conversor de tempo.AssemblyInfo.cs
+C:\Users\gmont\OneDrive\Desktop\C#\Exercicio conversor de tempo\Exercicio conversor de tempo\obj\Debug\net8.0\Exercicio conversor de tempo.csproj.CoreCompileInputs.cache
+C:\Users\gmont\OneDrive\Desktop\C#\Exercicio conversor de tempo\Exercicio conversor de tempo\obj\Debug\net8.0\Exercicio conversor de tempo.sourcelink.json
+C:\Users\gmont\OneDrive\Desktop\C#\Exercicio conversor de tempo\Exercicio conversor de tempo\bin\Debug\net8.0\Exercicio conversor de tempo.exe
+C:\Users\gmont\OneDrive\Desktop\C#\Exercicio conversor de tempo\Exercicio conversor de tempo\bin\Debug\net8.0\Exercicio conversor de tempo.deps.json
+C:\Users\gmont\OneDrive\Desktop\C#\Exercicio conversor de tempo\Exercicio conversor de tempo\bin\Debug\net8.0\Exercicio conversor de tempo.runtimeconfig.json
+C:\Users\gmont\OneDrive\Desktop\C#\Exercicio conversor de tempo\Exercicio conversor de tempo\bin\Debug\net8.0\Exercicio conversor de tempo.dll
+C:\Users\gmont\OneDrive\Desktop\C#\Exercicio conversor de tempo\Exercicio conversor de tempo\bin\Debug\net8.0\Exercicio conversor de tempo.pdb
+C:\Users\gmont\OneDrive\Desktop\C#\Exercicio conversor de tempo\Exercicio conversor de tempo\obj\Debug\net8.0\Exercicio conversor de tempo.dll
+C:\Users\gmont\OneDrive\Desktop\C#\Exercicio conversor de tempo\Exercicio conversor de tempo\obj\Debug\net8.0\refint\Exercicio conversor de tempo.dll
+C:\Users\gmont\OneDrive\Desktop\C#\Exercicio conversor de tempo\Exercicio conversor de tempo\obj\Debug\net8.0\Exercicio conversor de tempo.pdb
+C:\Users\gmont\OneDrive\Desktop\C#\Exercicio conversor de tempo\Exercicio conversor de tempo\obj\Debug\net8.0\Exercicio conversor de tempo.genruntimeconfig.cache
+C:\Users\gmont\OneDrive\Desktop\C#\Exercicio conversor de tempo\Exercicio conversor de tempo\obj\Debug\net8.0\ref\Exercicio conversor de tempo.dll

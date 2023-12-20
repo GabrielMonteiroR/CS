@@ -1,0 +1,15 @@
+C:\Users\gmont\OneDrive\Desktop\C#\ExercicioBool\ExercicioBool\obj\Debug\net8.0\ExercicioBool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmont\OneDrive\Desktop\C#\ExercicioBool\ExercicioBool\obj\Debug\net8.0\ExercicioBool.AssemblyInfoInputs.cache
+C:\Users\gmont\OneDrive\Desktop\C#\ExercicioBool\ExercicioBool\obj\Debug\net8.0\ExercicioBool.AssemblyInfo.cs
+C:\Users\gmont\OneDrive\Desktop\C#\ExercicioBool\ExercicioBool\obj\Debug\net8.0\ExercicioBool.csproj.CoreCompileInputs.cache
+C:\Users\gmont\OneDrive\Desktop\C#\ExercicioBool\ExercicioBool\obj\Debug\net8.0\ExercicioBool.sourcelink.json
+C:\Users\gmont\OneDrive\Desktop\C#\ExercicioBool\ExercicioBool\bin\Debug\net8.0\ExercicioBool.exe
+C:\Users\gmont\OneDrive\Desktop\C#\ExercicioBool\ExercicioBool\bin\Debug\net8.0\ExercicioBool.deps.json
+C:\Users\gmont\OneDrive\Desktop\C#\ExercicioBool\ExercicioBool\bin\Debug\net8.0\ExercicioBool.runtimeconfig.json
+C:\Users\gmont\OneDrive\Desktop\C#\ExercicioBool\ExercicioBool\bin\Debug\net8.0\ExercicioBool.dll
+C:\Users\gmont\OneDrive\Desktop\C#\ExercicioBool\ExercicioBool\bin\Debug\net8.0\ExercicioBool.pdb
+C:\Users\gmont\OneDrive\Desktop\C#\ExercicioBool\ExercicioBool\obj\Debug\net8.0\ExercicioBool.dll
+C:\Users\gmont\OneDrive\Desktop\C#\ExercicioBool\ExercicioBool\obj\Debug\net8.0\refint\ExercicioBool.dll
+C:\Users\gmont\OneDrive\Desktop\C#\ExercicioBool\ExercicioBool\obj\Debug\net8.0\ExercicioBool.pdb
+C:\Users\gmont\OneDrive\Desktop\C#\ExercicioBool\ExercicioBool\obj\Debug\net8.0\ExercicioBool.genruntimeconfig.cache
+C:\Users\gmont\OneDrive\Desktop\C#\ExercicioBool\ExercicioBool\obj\Debug\net8.0\ref\ExercicioBool.dll
