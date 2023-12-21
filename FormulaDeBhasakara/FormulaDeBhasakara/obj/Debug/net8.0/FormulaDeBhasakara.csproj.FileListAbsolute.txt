@@ -1,0 +1,15 @@
+C:\Users\gmont\OneDrive\Desktop\C#\FormulaDeBhasakara\FormulaDeBhasakara\bin\Debug\net8.0\FormulaDeBhasakara.exe
+C:\Users\gmont\OneDrive\Desktop\C#\FormulaDeBhasakara\FormulaDeBhasakara\bin\Debug\net8.0\FormulaDeBhasakara.deps.json
+C:\Users\gmont\OneDrive\Desktop\C#\FormulaDeBhasakara\FormulaDeBhasakara\bin\Debug\net8.0\FormulaDeBhasakara.runtimeconfig.json
+C:\Users\gmont\OneDrive\Desktop\C#\FormulaDeBhasakara\FormulaDeBhasakara\bin\Debug\net8.0\FormulaDeBhasakara.dll
+C:\Users\gmont\OneDrive\Desktop\C#\FormulaDeBhasakara\FormulaDeBhasakara\bin\Debug\net8.0\FormulaDeBhasakara.pdb
+C:\Users\gmont\OneDrive\Desktop\C#\FormulaDeBhasakara\FormulaDeBhasakara\obj\Debug\net8.0\FormulaDeBhasakara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmont\OneDrive\Desktop\C#\FormulaDeBhasakara\FormulaDeBhasakara\obj\Debug\net8.0\FormulaDeBhasakara.AssemblyInfoInputs.cache
+C:\Users\gmont\OneDrive\Desktop\C#\FormulaDeBhasakara\FormulaDeBhasakara\obj\Debug\net8.0\FormulaDeBhasakara.AssemblyInfo.cs
+C:\Users\gmont\OneDrive\Desktop\C#\FormulaDeBhasakara\FormulaDeBhasakara\obj\Debug\net8.0\FormulaDeBhasakara.csproj.CoreCompileInputs.cache
+C:\Users\gmont\OneDrive\Desktop\C#\FormulaDeBhasakara\FormulaDeBhasakara\obj\Debug\net8.0\FormulaDeBhasakara.sourcelink.json
+C:\Users\gmont\OneDrive\Desktop\C#\FormulaDeBhasakara\FormulaDeBhasakara\obj\Debug\net8.0\FormulaDeBhasakara.dll
+C:\Users\gmont\OneDrive\Desktop\C#\FormulaDeBhasakara\FormulaDeBhasakara\obj\Debug\net8.0\refint\FormulaDeBhasakara.dll
+C:\Users\gmont\OneDrive\Desktop\C#\FormulaDeBhasakara\FormulaDeBhasakara\obj\Debug\net8.0\FormulaDeBhasakara.pdb
+C:\Users\gmont\OneDrive\Desktop\C#\FormulaDeBhasakara\FormulaDeBhasakara\obj\Debug\net8.0\FormulaDeBhasakara.genruntimeconfig.cache
+C:\Users\gmont\OneDrive\Desktop\C#\FormulaDeBhasakara\FormulaDeBhasakara\obj\Debug\net8.0\ref\FormulaDeBhasakara.dll

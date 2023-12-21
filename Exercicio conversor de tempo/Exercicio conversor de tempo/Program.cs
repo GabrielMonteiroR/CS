@@ -17,7 +17,7 @@ namespace exerciciotempo
             resto = (double)segundo % 60;
             
             Console.WriteLine((int)minuto + ":" + resto);
-            Console.WriteLine("Horas: " + (int)hora +":"+(int)minuto+":"+resto);
+            Console.WriteLine("Horas: " + (int)hora + ":" + (int)minuto + ":" + resto);
 
         
 

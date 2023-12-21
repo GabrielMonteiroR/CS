@@ -1,0 +1,15 @@
+C:\Users\gmont\OneDrive\Desktop\C#\ExercicioEstruturacondicional\ExercicioEstruturacondicional\obj\Debug\net8.0\ExercicioEstruturacondicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmont\OneDrive\Desktop\C#\ExercicioEstruturacondicional\ExercicioEstruturacondicional\obj\Debug\net8.0\ExercicioEstruturacondicional.AssemblyInfoInputs.cache
+C:\Users\gmont\OneDrive\Desktop\C#\ExercicioEstruturacondicional\ExercicioEstruturacondicional\obj\Debug\net8.0\ExercicioEstruturacondicional.AssemblyInfo.cs
+C:\Users\gmont\OneDrive\Desktop\C#\ExercicioEstruturacondicional\ExercicioEstruturacondicional\obj\Debug\net8.0\ExercicioEstruturacondicional.csproj.CoreCompileInputs.cache
+C:\Users\gmont\OneDrive\Desktop\C#\ExercicioEstruturacondicional\ExercicioEstruturacondicional\obj\Debug\net8.0\ExercicioEstruturacondicional.sourcelink.json
+C:\Users\gmont\OneDrive\Desktop\C#\ExercicioEstruturacondicional\ExercicioEstruturacondicional\bin\Debug\net8.0\ExercicioEstruturacondicional.exe
+C:\Users\gmont\OneDrive\Desktop\C#\ExercicioEstruturacondicional\ExercicioEstruturacondicional\bin\Debug\net8.0\ExercicioEstruturacondicional.deps.json
+C:\Users\gmont\OneDrive\Desktop\C#\ExercicioEstruturacondicional\ExercicioEstruturacondicional\bin\Debug\net8.0\ExercicioEstruturacondicional.runtimeconfig.json
+C:\Users\gmont\OneDrive\Desktop\C#\ExercicioEstruturacondicional\ExercicioEstruturacondicional\bin\Debug\net8.0\ExercicioEstruturacondicional.dll
+C:\Users\gmont\OneDrive\Desktop\C#\ExercicioEstruturacondicional\ExercicioEstruturacondicional\bin\Debug\net8.0\ExercicioEstruturacondicional.pdb
+C:\Users\gmont\OneDrive\Desktop\C#\ExercicioEstruturacondicional\ExercicioEstruturacondicional\obj\Debug\net8.0\ExercicioEstruturacondicional.dll
+C:\Users\gmont\OneDrive\Desktop\C#\ExercicioEstruturacondicional\ExercicioEstruturacondicional\obj\Debug\net8.0\refint\ExercicioEstruturacondicional.dll
+C:\Users\gmont\OneDrive\Desktop\C#\ExercicioEstruturacondicional\ExercicioEstruturacondicional\obj\Debug\net8.0\ExercicioEstruturacondicional.pdb
+C:\Users\gmont\OneDrive\Desktop\C#\ExercicioEstruturacondicional\ExercicioEstruturacondicional\obj\Debug\net8.0\ExercicioEstruturacondicional.genruntimeconfig.cache
+C:\Users\gmont\OneDrive\Desktop\C#\ExercicioEstruturacondicional\ExercicioEstruturacondicional\obj\Debug\net8.0\ref\ExercicioEstruturacondicional.dll

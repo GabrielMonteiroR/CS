@@ -1,0 +1,15 @@
+C:\Users\gmont\OneDrive\Desktop\C#\Exerciciolernumint\Exerciciolernumint\obj\Debug\net8.0\Exerciciolernumint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmont\OneDrive\Desktop\C#\Exerciciolernumint\Exerciciolernumint\obj\Debug\net8.0\Exerciciolernumint.AssemblyInfoInputs.cache
+C:\Users\gmont\OneDrive\Desktop\C#\Exerciciolernumint\Exerciciolernumint\obj\Debug\net8.0\Exerciciolernumint.AssemblyInfo.cs
+C:\Users\gmont\OneDrive\Desktop\C#\Exerciciolernumint\Exerciciolernumint\obj\Debug\net8.0\Exerciciolernumint.csproj.CoreCompileInputs.cache
+C:\Users\gmont\OneDrive\Desktop\C#\Exerciciolernumint\Exerciciolernumint\obj\Debug\net8.0\Exerciciolernumint.sourcelink.json
+C:\Users\gmont\OneDrive\Desktop\C#\Exerciciolernumint\Exerciciolernumint\bin\Debug\net8.0\Exerciciolernumint.exe
+C:\Users\gmont\OneDrive\Desktop\C#\Exerciciolernumint\Exerciciolernumint\bin\Debug\net8.0\Exerciciolernumint.deps.json
+C:\Users\gmont\OneDrive\Desktop\C#\Exerciciolernumint\Exerciciolernumint\bin\Debug\net8.0\Exerciciolernumint.runtimeconfig.json
+C:\Users\gmont\OneDrive\Desktop\C#\Exerciciolernumint\Exerciciolernumint\bin\Debug\net8.0\Exerciciolernumint.dll
+C:\Users\gmont\OneDrive\Desktop\C#\Exerciciolernumint\Exerciciolernumint\bin\Debug\net8.0\Exerciciolernumint.pdb
+C:\Users\gmont\OneDrive\Desktop\C#\Exerciciolernumint\Exerciciolernumint\obj\Debug\net8.0\Exerciciolernumint.dll
+C:\Users\gmont\OneDrive\Desktop\C#\Exerciciolernumint\Exerciciolernumint\obj\Debug\net8.0\refint\Exerciciolernumint.dll
+C:\Users\gmont\OneDrive\Desktop\C#\Exerciciolernumint\Exerciciolernumint\obj\Debug\net8.0\Exerciciolernumint.pdb
+C:\Users\gmont\OneDrive\Desktop\C#\Exerciciolernumint\Exerciciolernumint\obj\Debug\net8.0\Exerciciolernumint.genruntimeconfig.cache
+C:\Users\gmont\OneDrive\Desktop\C#\Exerciciolernumint\Exerciciolernumint\obj\Debug\net8.0\ref\Exerciciolernumint.dll
