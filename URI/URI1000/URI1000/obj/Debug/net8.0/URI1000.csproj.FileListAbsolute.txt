@@ -1,0 +1,14 @@
+C:\Users\gmont\OneDrive\Desktop\Codes\URI\URI1000\URI1000\bin\Debug\net8.0\URI1000.exe
+C:\Users\gmont\OneDrive\Desktop\Codes\URI\URI1000\URI1000\bin\Debug\net8.0\URI1000.deps.json
+C:\Users\gmont\OneDrive\Desktop\Codes\URI\URI1000\URI1000\bin\Debug\net8.0\URI1000.runtimeconfig.json
+C:\Users\gmont\OneDrive\Desktop\Codes\URI\URI1000\URI1000\bin\Debug\net8.0\URI1000.dll
+C:\Users\gmont\OneDrive\Desktop\Codes\URI\URI1000\URI1000\bin\Debug\net8.0\URI1000.pdb
+C:\Users\gmont\OneDrive\Desktop\Codes\URI\URI1000\URI1000\obj\Debug\net8.0\URI1000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmont\OneDrive\Desktop\Codes\URI\URI1000\URI1000\obj\Debug\net8.0\URI1000.AssemblyInfoInputs.cache
+C:\Users\gmont\OneDrive\Desktop\Codes\URI\URI1000\URI1000\obj\Debug\net8.0\URI1000.AssemblyInfo.cs
+C:\Users\gmont\OneDrive\Desktop\Codes\URI\URI1000\URI1000\obj\Debug\net8.0\URI1000.csproj.CoreCompileInputs.cache
+C:\Users\gmont\OneDrive\Desktop\Codes\URI\URI1000\URI1000\obj\Debug\net8.0\URI1000.dll
+C:\Users\gmont\OneDrive\Desktop\Codes\URI\URI1000\URI1000\obj\Debug\net8.0\refint\URI1000.dll
+C:\Users\gmont\OneDrive\Desktop\Codes\URI\URI1000\URI1000\obj\Debug\net8.0\URI1000.pdb
+C:\Users\gmont\OneDrive\Desktop\Codes\URI\URI1000\URI1000\obj\Debug\net8.0\URI1000.genruntimeconfig.cache
+C:\Users\gmont\OneDrive\Desktop\Codes\URI\URI1000\URI1000\obj\Debug\net8.0\ref\URI1000.dll

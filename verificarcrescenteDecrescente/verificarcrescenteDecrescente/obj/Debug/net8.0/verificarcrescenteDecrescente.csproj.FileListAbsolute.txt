@@ -1,0 +1,14 @@
+C:\Users\gmont\OneDrive\Desktop\ExerciciosC#\verificarcrescenteDecrescente\verificarcrescenteDecrescente\obj\Debug\net8.0\verificarcrescenteDecrescente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmont\OneDrive\Desktop\ExerciciosC#\verificarcrescenteDecrescente\verificarcrescenteDecrescente\obj\Debug\net8.0\verificarcrescenteDecrescente.AssemblyInfoInputs.cache
+C:\Users\gmont\OneDrive\Desktop\ExerciciosC#\verificarcrescenteDecrescente\verificarcrescenteDecrescente\obj\Debug\net8.0\verificarcrescenteDecrescente.AssemblyInfo.cs
+C:\Users\gmont\OneDrive\Desktop\ExerciciosC#\verificarcrescenteDecrescente\verificarcrescenteDecrescente\obj\Debug\net8.0\verificarcrescenteDecrescente.csproj.CoreCompileInputs.cache
+C:\Users\gmont\OneDrive\Desktop\ExerciciosC#\verificarcrescenteDecrescente\verificarcrescenteDecrescente\bin\Debug\net8.0\verificarcrescenteDecrescente.exe
+C:\Users\gmont\OneDrive\Desktop\ExerciciosC#\verificarcrescenteDecrescente\verificarcrescenteDecrescente\bin\Debug\net8.0\verificarcrescenteDecrescente.deps.json
+C:\Users\gmont\OneDrive\Desktop\ExerciciosC#\verificarcrescenteDecrescente\verificarcrescenteDecrescente\bin\Debug\net8.0\verificarcrescenteDecrescente.runtimeconfig.json
+C:\Users\gmont\OneDrive\Desktop\ExerciciosC#\verificarcrescenteDecrescente\verificarcrescenteDecrescente\bin\Debug\net8.0\verificarcrescenteDecrescente.dll
+C:\Users\gmont\OneDrive\Desktop\ExerciciosC#\verificarcrescenteDecrescente\verificarcrescenteDecrescente\bin\Debug\net8.0\verificarcrescenteDecrescente.pdb
+C:\Users\gmont\OneDrive\Desktop\ExerciciosC#\verificarcrescenteDecrescente\verificarcrescenteDecrescente\obj\Debug\net8.0\verificarcrescenteDecrescente.dll
+C:\Users\gmont\OneDrive\Desktop\ExerciciosC#\verificarcrescenteDecrescente\verificarcrescenteDecrescente\obj\Debug\net8.0\refint\verificarcrescenteDecrescente.dll
+C:\Users\gmont\OneDrive\Desktop\ExerciciosC#\verificarcrescenteDecrescente\verificarcrescenteDecrescente\obj\Debug\net8.0\verificarcrescenteDecrescente.pdb
+C:\Users\gmont\OneDrive\Desktop\ExerciciosC#\verificarcrescenteDecrescente\verificarcrescenteDecrescente\obj\Debug\net8.0\verificarcrescenteDecrescente.genruntimeconfig.cache
+C:\Users\gmont\OneDrive\Desktop\ExerciciosC#\verificarcrescenteDecrescente\verificarcrescenteDecrescente\obj\Debug\net8.0\ref\verificarcrescenteDecrescente.dll

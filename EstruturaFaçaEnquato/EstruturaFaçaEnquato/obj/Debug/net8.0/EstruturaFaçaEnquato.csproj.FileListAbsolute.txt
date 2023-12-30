@@ -1,0 +1,5 @@
+C:\Users\gmont\OneDrive\Desktop\Codes\C#\EstruturaFaçaEnquato\EstruturaFaçaEnquato\obj\Debug\net8.0\EstruturaFaçaEnquato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmont\OneDrive\Desktop\Codes\C#\EstruturaFaçaEnquato\EstruturaFaçaEnquato\obj\Debug\net8.0\EstruturaFaçaEnquato.AssemblyInfoInputs.cache
+C:\Users\gmont\OneDrive\Desktop\Codes\C#\EstruturaFaçaEnquato\EstruturaFaçaEnquato\obj\Debug\net8.0\EstruturaFaçaEnquato.AssemblyInfo.cs
+C:\Users\gmont\OneDrive\Desktop\Codes\C#\EstruturaFaçaEnquato\EstruturaFaçaEnquato\obj\Debug\net8.0\EstruturaFaçaEnquato.csproj.CoreCompileInputs.cache
+C:\Users\gmont\OneDrive\Desktop\Codes\C#\EstruturaFaçaEnquato\EstruturaFaçaEnquato\obj\Debug\net8.0\EstruturaFaçaEnquato.sourcelink.json

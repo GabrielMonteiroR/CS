@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34321.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "verificarcrescenteDecrescentecomWHILE", "verificarcrescenteDecrescente\verificarcrescenteDecrescentecomWHILE.csproj", "{288D8BAB-03F1-446C-AD03-43799727E1CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{288D8BAB-03F1-446C-AD03-43799727E1CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{288D8BAB-03F1-446C-AD03-43799727E1CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{288D8BAB-03F1-446C-AD03-43799727E1CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{288D8BAB-03F1-446C-AD03-43799727E1CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FAF092E-59D6-425A-AA19-361A535224CE}
+	EndGlobalSection
+EndGlobal

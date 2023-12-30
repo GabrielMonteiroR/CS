@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gmont\\OneDrive\\Desktop\\C#\\comofazercasting\\",
+  "WorkspaceRootPath": "C:\\Users\\gmont\\OneDrive\\Desktop\\Codes\\C#\\comofazercasting\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{179257B0-8B27-4E1C-9EB0-65E26569D1BA}|comofazercasting\\comofazercasting.csproj|c:\\users\\gmont\\onedrive\\desktop\\c#\\comofazercasting\\comofazercasting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{179257B0-8B27-4E1C-9EB0-65E26569D1BA}|comofazercasting\\comofazercasting.csproj|solutionrelative:comofazercasting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gmont\\OneDrive\\Desktop\\Codes\\C#\\comofazercasting\\comofazercasting\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:comofazercasting\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +14,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2113908464:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2130627975:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gmont\\OneDrive\\Desktop\\C#\\comofazercasting\\comofazercasting\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\gmont\\OneDrive\\Desktop\\Codes\\C#\\comofazercasting\\comofazercasting\\Program.cs",
               "RelativeDocumentMoniker": "comofazercasting\\Program.cs",
-              "ToolTip": "C:\\Users\\gmont\\OneDrive\\Desktop\\C#\\comofazercasting\\comofazercasting\\Program.cs",
-              "RelativeToolTip": "comofazercasting\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "ToolTip": "C:\\Users\\gmont\\OneDrive\\Desktop\\Codes\\C#\\comofazercasting\\comofazercasting\\Program.cs*",
+              "RelativeToolTip": "comofazercasting\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2023-12-16T11:13:05.513Z",
               "EditorCaption": ""

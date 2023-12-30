@@ -1,0 +1,15 @@
+C:\Users\gmont\OneDrive\Desktop\C#\Operadoresdeatribuiçãocumulativa\Operadoresdeatribuiçãocumulativa\bin\Debug\net8.0\Operadoresdeatribuiçãocumulativa.exe
+C:\Users\gmont\OneDrive\Desktop\C#\Operadoresdeatribuiçãocumulativa\Operadoresdeatribuiçãocumulativa\bin\Debug\net8.0\Operadoresdeatribuiçãocumulativa.deps.json
+C:\Users\gmont\OneDrive\Desktop\C#\Operadoresdeatribuiçãocumulativa\Operadoresdeatribuiçãocumulativa\bin\Debug\net8.0\Operadoresdeatribuiçãocumulativa.runtimeconfig.json
+C:\Users\gmont\OneDrive\Desktop\C#\Operadoresdeatribuiçãocumulativa\Operadoresdeatribuiçãocumulativa\bin\Debug\net8.0\Operadoresdeatribuiçãocumulativa.dll
+C:\Users\gmont\OneDrive\Desktop\C#\Operadoresdeatribuiçãocumulativa\Operadoresdeatribuiçãocumulativa\bin\Debug\net8.0\Operadoresdeatribuiçãocumulativa.pdb
+C:\Users\gmont\OneDrive\Desktop\C#\Operadoresdeatribuiçãocumulativa\Operadoresdeatribuiçãocumulativa\obj\Debug\net8.0\Operadoresdeatribuiçãocumulativa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmont\OneDrive\Desktop\C#\Operadoresdeatribuiçãocumulativa\Operadoresdeatribuiçãocumulativa\obj\Debug\net8.0\Operadoresdeatribuiçãocumulativa.AssemblyInfoInputs.cache
+C:\Users\gmont\OneDrive\Desktop\C#\Operadoresdeatribuiçãocumulativa\Operadoresdeatribuiçãocumulativa\obj\Debug\net8.0\Operadoresdeatribuiçãocumulativa.AssemblyInfo.cs
+C:\Users\gmont\OneDrive\Desktop\C#\Operadoresdeatribuiçãocumulativa\Operadoresdeatribuiçãocumulativa\obj\Debug\net8.0\Operadoresdeatribuiçãocumulativa.csproj.CoreCompileInputs.cache
+C:\Users\gmont\OneDrive\Desktop\C#\Operadoresdeatribuiçãocumulativa\Operadoresdeatribuiçãocumulativa\obj\Debug\net8.0\Operadoresdeatribuiçãocumulativa.sourcelink.json
+C:\Users\gmont\OneDrive\Desktop\C#\Operadoresdeatribuiçãocumulativa\Operadoresdeatribuiçãocumulativa\obj\Debug\net8.0\Operadoresdeatribuiçãocumulativa.dll
+C:\Users\gmont\OneDrive\Desktop\C#\Operadoresdeatribuiçãocumulativa\Operadoresdeatribuiçãocumulativa\obj\Debug\net8.0\refint\Operadoresdeatribuiçãocumulativa.dll
+C:\Users\gmont\OneDrive\Desktop\C#\Operadoresdeatribuiçãocumulativa\Operadoresdeatribuiçãocumulativa\obj\Debug\net8.0\Operadoresdeatribuiçãocumulativa.pdb
+C:\Users\gmont\OneDrive\Desktop\C#\Operadoresdeatribuiçãocumulativa\Operadoresdeatribuiçãocumulativa\obj\Debug\net8.0\Operadoresdeatribuiçãocumulativa.genruntimeconfig.cache
+C:\Users\gmont\OneDrive\Desktop\C#\Operadoresdeatribuiçãocumulativa\Operadoresdeatribuiçãocumulativa\obj\Debug\net8.0\ref\Operadoresdeatribuiçãocumulativa.dll

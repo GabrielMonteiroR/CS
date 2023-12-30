@@ -1,0 +1,15 @@
+C:\Users\gmont\OneDrive\Desktop\Codes\C#\TabuadaUtilizandoFOR\TabuadaUtilizandoFOR\obj\Debug\net8.0\TabuadaUtilizandoFOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmont\OneDrive\Desktop\Codes\C#\TabuadaUtilizandoFOR\TabuadaUtilizandoFOR\obj\Debug\net8.0\TabuadaUtilizandoFOR.AssemblyInfoInputs.cache
+C:\Users\gmont\OneDrive\Desktop\Codes\C#\TabuadaUtilizandoFOR\TabuadaUtilizandoFOR\obj\Debug\net8.0\TabuadaUtilizandoFOR.AssemblyInfo.cs
+C:\Users\gmont\OneDrive\Desktop\Codes\C#\TabuadaUtilizandoFOR\TabuadaUtilizandoFOR\obj\Debug\net8.0\TabuadaUtilizandoFOR.csproj.CoreCompileInputs.cache
+C:\Users\gmont\OneDrive\Desktop\Codes\C#\TabuadaUtilizandoFOR\TabuadaUtilizandoFOR\obj\Debug\net8.0\TabuadaUtilizandoFOR.sourcelink.json
+C:\Users\gmont\OneDrive\Desktop\Codes\C#\TabuadaUtilizandoFOR\TabuadaUtilizandoFOR\bin\Debug\net8.0\TabuadaUtilizandoFOR.exe
+C:\Users\gmont\OneDrive\Desktop\Codes\C#\TabuadaUtilizandoFOR\TabuadaUtilizandoFOR\bin\Debug\net8.0\TabuadaUtilizandoFOR.deps.json
+C:\Users\gmont\OneDrive\Desktop\Codes\C#\TabuadaUtilizandoFOR\TabuadaUtilizandoFOR\bin\Debug\net8.0\TabuadaUtilizandoFOR.runtimeconfig.json
+C:\Users\gmont\OneDrive\Desktop\Codes\C#\TabuadaUtilizandoFOR\TabuadaUtilizandoFOR\bin\Debug\net8.0\TabuadaUtilizandoFOR.dll
+C:\Users\gmont\OneDrive\Desktop\Codes\C#\TabuadaUtilizandoFOR\TabuadaUtilizandoFOR\bin\Debug\net8.0\TabuadaUtilizandoFOR.pdb
+C:\Users\gmont\OneDrive\Desktop\Codes\C#\TabuadaUtilizandoFOR\TabuadaUtilizandoFOR\obj\Debug\net8.0\TabuadaUtilizandoFOR.dll
+C:\Users\gmont\OneDrive\Desktop\Codes\C#\TabuadaUtilizandoFOR\TabuadaUtilizandoFOR\obj\Debug\net8.0\refint\TabuadaUtilizandoFOR.dll
+C:\Users\gmont\OneDrive\Desktop\Codes\C#\TabuadaUtilizandoFOR\TabuadaUtilizandoFOR\obj\Debug\net8.0\TabuadaUtilizandoFOR.pdb
+C:\Users\gmont\OneDrive\Desktop\Codes\C#\TabuadaUtilizandoFOR\TabuadaUtilizandoFOR\obj\Debug\net8.0\TabuadaUtilizandoFOR.genruntimeconfig.cache
+C:\Users\gmont\OneDrive\Desktop\Codes\C#\TabuadaUtilizandoFOR\TabuadaUtilizandoFOR\obj\Debug\net8.0\ref\TabuadaUtilizandoFOR.dll

@@ -1,0 +1,15 @@
+C:\Users\gmont\OneDrive\Desktop\C#\Estrutura repetitiva ''enquanto'\Estrutura repetitiva ''enquanto'\obj\Debug\net8.0\Estrutura repetitiva ''enquanto'.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmont\OneDrive\Desktop\C#\Estrutura repetitiva ''enquanto'\Estrutura repetitiva ''enquanto'\obj\Debug\net8.0\Estrutura repetitiva ''enquanto'.AssemblyInfoInputs.cache
+C:\Users\gmont\OneDrive\Desktop\C#\Estrutura repetitiva ''enquanto'\Estrutura repetitiva ''enquanto'\obj\Debug\net8.0\Estrutura repetitiva ''enquanto'.AssemblyInfo.cs
+C:\Users\gmont\OneDrive\Desktop\C#\Estrutura repetitiva ''enquanto'\Estrutura repetitiva ''enquanto'\obj\Debug\net8.0\Estrutura repetitiva ''enquanto'.csproj.CoreCompileInputs.cache
+C:\Users\gmont\OneDrive\Desktop\C#\Estrutura repetitiva ''enquanto'\Estrutura repetitiva ''enquanto'\obj\Debug\net8.0\Estrutura repetitiva ''enquanto'.sourcelink.json
+C:\Users\gmont\OneDrive\Desktop\C#\Estrutura repetitiva ''enquanto'\Estrutura repetitiva ''enquanto'\bin\Debug\net8.0\Estrutura repetitiva ''enquanto'.exe
+C:\Users\gmont\OneDrive\Desktop\C#\Estrutura repetitiva ''enquanto'\Estrutura repetitiva ''enquanto'\bin\Debug\net8.0\Estrutura repetitiva ''enquanto'.deps.json
+C:\Users\gmont\OneDrive\Desktop\C#\Estrutura repetitiva ''enquanto'\Estrutura repetitiva ''enquanto'\bin\Debug\net8.0\Estrutura repetitiva ''enquanto'.runtimeconfig.json
+C:\Users\gmont\OneDrive\Desktop\C#\Estrutura repetitiva ''enquanto'\Estrutura repetitiva ''enquanto'\bin\Debug\net8.0\Estrutura repetitiva ''enquanto'.dll
+C:\Users\gmont\OneDrive\Desktop\C#\Estrutura repetitiva ''enquanto'\Estrutura repetitiva ''enquanto'\bin\Debug\net8.0\Estrutura repetitiva ''enquanto'.pdb
+C:\Users\gmont\OneDrive\Desktop\C#\Estrutura repetitiva ''enquanto'\Estrutura repetitiva ''enquanto'\obj\Debug\net8.0\Estrutura repetitiva ''enquanto'.dll
+C:\Users\gmont\OneDrive\Desktop\C#\Estrutura repetitiva ''enquanto'\Estrutura repetitiva ''enquanto'\obj\Debug\net8.0\refint\Estrutura repetitiva ''enquanto'.dll
+C:\Users\gmont\OneDrive\Desktop\C#\Estrutura repetitiva ''enquanto'\Estrutura repetitiva ''enquanto'\obj\Debug\net8.0\Estrutura repetitiva ''enquanto'.pdb
+C:\Users\gmont\OneDrive\Desktop\C#\Estrutura repetitiva ''enquanto'\Estrutura repetitiva ''enquanto'\obj\Debug\net8.0\Estrutura repetitiva ''enquanto'.genruntimeconfig.cache
+C:\Users\gmont\OneDrive\Desktop\C#\Estrutura repetitiva ''enquanto'\Estrutura repetitiva ''enquanto'\obj\Debug\net8.0\ref\Estrutura repetitiva ''enquanto'.dll

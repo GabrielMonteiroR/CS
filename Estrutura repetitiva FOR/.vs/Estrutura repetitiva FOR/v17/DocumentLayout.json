@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gmont\\OneDrive\\Desktop\\ExerciciosC#\\Estrutura repetitiva FOR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3622D97-1E2A-443E-9420-A364E1C75C48}|Estrutura repetitiva FOR\\Estrutura repetitiva FOR.csproj|c:\\users\\gmont\\onedrive\\desktop\\exerciciosc#\\estrutura repetitiva for\\estrutura repetitiva for\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3622D97-1E2A-443E-9420-A364E1C75C48}|Estrutura repetitiva FOR\\Estrutura repetitiva FOR.csproj|solutionrelative:estrutura repetitiva for\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2113908464:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2130627975:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gmont\\OneDrive\\Desktop\\ExerciciosC#\\Estrutura repetitiva FOR\\Estrutura repetitiva FOR\\Program.cs",
+              "RelativeDocumentMoniker": "Estrutura repetitiva FOR\\Program.cs",
+              "ToolTip": "C:\\Users\\gmont\\OneDrive\\Desktop\\ExerciciosC#\\Estrutura repetitiva FOR\\Estrutura repetitiva FOR\\Program.cs",
+              "RelativeToolTip": "Estrutura repetitiva FOR\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T18:57:30.067Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

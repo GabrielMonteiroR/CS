@@ -1,0 +1,14 @@
+C:\Users\gmont\OneDrive\Desktop\ExerciciosC#\ExerciciocomWhile\ExerciciocomWhile\obj\Debug\net8.0\ExerciciocomWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmont\OneDrive\Desktop\ExerciciosC#\ExerciciocomWhile\ExerciciocomWhile\obj\Debug\net8.0\ExerciciocomWhile.AssemblyInfoInputs.cache
+C:\Users\gmont\OneDrive\Desktop\ExerciciosC#\ExerciciocomWhile\ExerciciocomWhile\obj\Debug\net8.0\ExerciciocomWhile.AssemblyInfo.cs
+C:\Users\gmont\OneDrive\Desktop\ExerciciosC#\ExerciciocomWhile\ExerciciocomWhile\obj\Debug\net8.0\ExerciciocomWhile.csproj.CoreCompileInputs.cache
+C:\Users\gmont\OneDrive\Desktop\ExerciciosC#\ExerciciocomWhile\ExerciciocomWhile\bin\Debug\net8.0\ExerciciocomWhile.exe
+C:\Users\gmont\OneDrive\Desktop\ExerciciosC#\ExerciciocomWhile\ExerciciocomWhile\bin\Debug\net8.0\ExerciciocomWhile.deps.json
+C:\Users\gmont\OneDrive\Desktop\ExerciciosC#\ExerciciocomWhile\ExerciciocomWhile\bin\Debug\net8.0\ExerciciocomWhile.runtimeconfig.json
+C:\Users\gmont\OneDrive\Desktop\ExerciciosC#\ExerciciocomWhile\ExerciciocomWhile\bin\Debug\net8.0\ExerciciocomWhile.dll
+C:\Users\gmont\OneDrive\Desktop\ExerciciosC#\ExerciciocomWhile\ExerciciocomWhile\bin\Debug\net8.0\ExerciciocomWhile.pdb
+C:\Users\gmont\OneDrive\Desktop\ExerciciosC#\ExerciciocomWhile\ExerciciocomWhile\obj\Debug\net8.0\ExerciciocomWhile.dll
+C:\Users\gmont\OneDrive\Desktop\ExerciciosC#\ExerciciocomWhile\ExerciciocomWhile\obj\Debug\net8.0\refint\ExerciciocomWhile.dll
+C:\Users\gmont\OneDrive\Desktop\ExerciciosC#\ExerciciocomWhile\ExerciciocomWhile\obj\Debug\net8.0\ExerciciocomWhile.pdb
+C:\Users\gmont\OneDrive\Desktop\ExerciciosC#\ExerciciocomWhile\ExerciciocomWhile\obj\Debug\net8.0\ExerciciocomWhile.genruntimeconfig.cache
+C:\Users\gmont\OneDrive\Desktop\ExerciciosC#\ExerciciocomWhile\ExerciciocomWhile\obj\Debug\net8.0\ref\ExerciciocomWhile.dll

@@ -1,0 +1,15 @@
+C:\Users\gmont\OneDrive\Desktop\Codes\C#\Somadeimpares consecutivos FOR\Somadeimpares consecutivos FOR\obj\Debug\net8.0\Somadeimpares consecutivos FOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmont\OneDrive\Desktop\Codes\C#\Somadeimpares consecutivos FOR\Somadeimpares consecutivos FOR\obj\Debug\net8.0\Somadeimpares consecutivos FOR.AssemblyInfoInputs.cache
+C:\Users\gmont\OneDrive\Desktop\Codes\C#\Somadeimpares consecutivos FOR\Somadeimpares consecutivos FOR\obj\Debug\net8.0\Somadeimpares consecutivos FOR.AssemblyInfo.cs
+C:\Users\gmont\OneDrive\Desktop\Codes\C#\Somadeimpares consecutivos FOR\Somadeimpares consecutivos FOR\obj\Debug\net8.0\Somadeimpares consecutivos FOR.csproj.CoreCompileInputs.cache
+C:\Users\gmont\OneDrive\Desktop\Codes\C#\Somadeimpares consecutivos FOR\Somadeimpares consecutivos FOR\obj\Debug\net8.0\Somadeimpares consecutivos FOR.sourcelink.json
+C:\Users\gmont\OneDrive\Desktop\Codes\C#\Somadeimpares consecutivos FOR\Somadeimpares consecutivos FOR\bin\Debug\net8.0\Somadeimpares consecutivos FOR.exe
+C:\Users\gmont\OneDrive\Desktop\Codes\C#\Somadeimpares consecutivos FOR\Somadeimpares consecutivos FOR\bin\Debug\net8.0\Somadeimpares consecutivos FOR.deps.json
+C:\Users\gmont\OneDrive\Desktop\Codes\C#\Somadeimpares consecutivos FOR\Somadeimpares consecutivos FOR\bin\Debug\net8.0\Somadeimpares consecutivos FOR.runtimeconfig.json
+C:\Users\gmont\OneDrive\Desktop\Codes\C#\Somadeimpares consecutivos FOR\Somadeimpares consecutivos FOR\bin\Debug\net8.0\Somadeimpares consecutivos FOR.dll
+C:\Users\gmont\OneDrive\Desktop\Codes\C#\Somadeimpares consecutivos FOR\Somadeimpares consecutivos FOR\bin\Debug\net8.0\Somadeimpares consecutivos FOR.pdb
+C:\Users\gmont\OneDrive\Desktop\Codes\C#\Somadeimpares consecutivos FOR\Somadeimpares consecutivos FOR\obj\Debug\net8.0\Somadeimpares consecutivos FOR.dll
+C:\Users\gmont\OneDrive\Desktop\Codes\C#\Somadeimpares consecutivos FOR\Somadeimpares consecutivos FOR\obj\Debug\net8.0\refint\Somadeimpares consecutivos FOR.dll
+C:\Users\gmont\OneDrive\Desktop\Codes\C#\Somadeimpares consecutivos FOR\Somadeimpares consecutivos FOR\obj\Debug\net8.0\Somadeimpares consecutivos FOR.pdb
+C:\Users\gmont\OneDrive\Desktop\Codes\C#\Somadeimpares consecutivos FOR\Somadeimpares consecutivos FOR\obj\Debug\net8.0\Somadeimpares consecutivos FOR.genruntimeconfig.cache
+C:\Users\gmont\OneDrive\Desktop\Codes\C#\Somadeimpares consecutivos FOR\Somadeimpares consecutivos FOR\obj\Debug\net8.0\ref\Somadeimpares consecutivos FOR.dll
